@@ -3,7 +3,7 @@
 ## Notes: Lightweight Unit Frames in a modern look.
 ## Author: Avi (updated by iRock)
 ##
-## Dependencies: SuperWow, UnitXP /WoW Turbo
+## Dependencies:
 ## SavedVariables: LunaDB, LunaBuffDB
 ## OptionalDeps: Ace2, RosterLib, BanzaiLib, HealComm, DruidManaLib, MobHealth, Clique, FuBar, FuBarPlugin-2.0, Babble-2.2, CompostLib, SurfaceLib, Surfaces, DewdropLib, TabletLib, Opium
 ## X-Category: UnitFrame
